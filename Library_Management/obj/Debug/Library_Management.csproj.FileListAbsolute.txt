@@ -1,0 +1,52 @@
+E:\project\Library Management System\Library_Management\Library_Management\bin\Library_Management.dll.config
+E:\project\Library Management System\Library_Management\Library_Management\bin\Library_Management.dll
+E:\project\Library Management System\Library_Management\Library_Management\bin\Library_Management.pdb
+E:\project\Library Management System\Library_Management\Library_Management\bin\EntityFramework.dll
+E:\project\Library Management System\Library_Management\Library_Management\bin\EntityFramework.SqlServer.dll
+E:\project\Library Management System\Library_Management\Library_Management\bin\EntityFramework.xml
+E:\project\Library Management System\Library_Management\Library_Management\bin\EntityFramework.SqlServer.xml
+E:\project\Library Management System\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.AssemblyReference.cache
+E:\project\Library Management System\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.CoreCompileInputs.cache
+E:\project\Library Management System\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.CopyComplete
+E:\project\Library Management System\Library_Management\Library_Management\obj\Debug\Library_Management.dll
+E:\project\Library Management System\Library_Management\Library_Management\obj\Debug\Library_Management.pdb
+D:\document\project\Library Management System\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.CoreCompileInputs.cache
+D:\document\project\Library Management System\Library_Management\Library_Management\obj\Debug\Library_Management.dll
+D:\document\project\Library Management System\Library_Management\Library_Management\obj\Debug\Library_Management.pdb
+D:\document\project\Library Management System\Library_Management\Library_Management\bin\Library_Management.dll.config
+D:\document\project\Library Management System\Library_Management\Library_Management\bin\Library_Management.dll
+D:\document\project\Library Management System\Library_Management\Library_Management\bin\Library_Management.pdb
+D:\document\project\Library Management System\Library_Management\Library_Management\bin\EntityFramework.dll
+D:\document\project\Library Management System\Library_Management\Library_Management\bin\EntityFramework.SqlServer.dll
+D:\document\project\Library Management System\Library_Management\Library_Management\bin\EntityFramework.xml
+D:\document\project\Library Management System\Library_Management\Library_Management\bin\EntityFramework.SqlServer.xml
+D:\document\project\Library Management System\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.CopyComplete
+D:\document\project\Library Management System\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.AssemblyReference.cache
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management\bin\Library_Management.dll.config
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management\bin\Library_Management.dll
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management\bin\Library_Management.pdb
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management\bin\EntityFramework.dll
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management\bin\EntityFramework.SqlServer.dll
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management\bin\EntityFramework.xml
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management\bin\EntityFramework.SqlServer.xml
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.AssemblyReference.cache
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.CoreCompileInputs.cache
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.CopyComplete
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management\obj\Debug\Library_Management.dll
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management\obj\Debug\Library_Management.pdb
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management\obj\Debug\Library_Management.Migrations.Init.resources
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.GenerateResource.cache
+D:\Project\LibraryManagementSystemWCF\Library_Management\bin\Library_Management.dll.config
+D:\Project\LibraryManagementSystemWCF\Library_Management\bin\Library_Management.dll
+D:\Project\LibraryManagementSystemWCF\Library_Management\bin\Library_Management.pdb
+D:\Project\LibraryManagementSystemWCF\Library_Management\bin\EntityFramework.dll
+D:\Project\LibraryManagementSystemWCF\Library_Management\bin\EntityFramework.SqlServer.dll
+D:\Project\LibraryManagementSystemWCF\Library_Management\bin\EntityFramework.xml
+D:\Project\LibraryManagementSystemWCF\Library_Management\bin\EntityFramework.SqlServer.xml
+D:\Project\LibraryManagementSystemWCF\Library_Management\obj\Debug\Library_Management.csproj.AssemblyReference.cache
+D:\Project\LibraryManagementSystemWCF\Library_Management\obj\Debug\Library_Management.csproj.CoreCompileInputs.cache
+D:\Project\LibraryManagementSystemWCF\Library_Management\obj\Debug\Library_Management.csproj.CopyComplete
+D:\Project\LibraryManagementSystemWCF\Library_Management\obj\Debug\Library_Management.dll
+D:\Project\LibraryManagementSystemWCF\Library_Management\obj\Debug\Library_Management.pdb
+D:\Project\LibraryManagementSystemWCF\Library_Management\obj\Debug\Library_Management.Migrations.Init.resources
+D:\Project\LibraryManagementSystemWCF\Library_Management\obj\Debug\Library_Management.csproj.GenerateResource.cache

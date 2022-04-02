@@ -1,0 +1,45 @@
+E:\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\Library_Management_host.exe.config
+E:\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\Library_Management_host.exe
+E:\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\Library_Management_host.pdb
+E:\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\Library_Management.dll
+E:\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\EntityFramework.dll
+E:\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\Library_Management.pdb
+E:\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\Library_Management.dll.config
+E:\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\EntityFramework.xml
+E:\project\Library Management System\Library_Management\Library_Management_host\obj\Debug\Library_Management_host.csproj.AssemblyReference.cache
+E:\project\Library Management System\Library_Management\Library_Management_host\obj\Debug\Library_Management_host.csproj.CoreCompileInputs.cache
+E:\project\Library Management System\Library_Management\Library_Management_host\obj\Debug\Library_Management_host.csproj.CopyComplete
+E:\project\Library Management System\Library_Management\Library_Management_host\obj\Debug\Library_Management_host.exe
+E:\project\Library Management System\Library_Management\Library_Management_host\obj\Debug\Library_Management_host.pdb
+E:\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\EntityFramework.SqlServer.dll
+E:\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\EntityFramework.SqlServer.xml
+D:\document\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\Library_Management_host.exe.config
+D:\document\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\Library_Management_host.exe
+D:\document\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\Library_Management_host.pdb
+D:\document\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\EntityFramework.dll
+D:\document\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\EntityFramework.SqlServer.dll
+D:\document\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\Library_Management.dll
+D:\document\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\EntityFramework.xml
+D:\document\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\EntityFramework.SqlServer.xml
+D:\document\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\Library_Management.pdb
+D:\document\project\Library Management System\Library_Management\Library_Management_host\bin\Debug\Library_Management.dll.config
+D:\document\project\Library Management System\Library_Management\Library_Management_host\obj\Debug\Library_Management_host.csproj.AssemblyReference.cache
+D:\document\project\Library Management System\Library_Management\Library_Management_host\obj\Debug\Library_Management_host.csproj.CoreCompileInputs.cache
+D:\document\project\Library Management System\Library_Management\Library_Management_host\obj\Debug\Library_Management_host.csproj.CopyComplete
+D:\document\project\Library Management System\Library_Management\Library_Management_host\obj\Debug\Library_Management_host.exe
+D:\document\project\Library Management System\Library_Management\Library_Management_host\obj\Debug\Library_Management_host.pdb
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management_host\bin\Debug\Library_Management_host.exe.config
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management_host\bin\Debug\Library_Management_host.exe
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management_host\bin\Debug\Library_Management_host.pdb
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management_host\bin\Debug\EntityFramework.dll
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management_host\bin\Debug\EntityFramework.SqlServer.dll
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management_host\bin\Debug\Library_Management.dll
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management_host\bin\Debug\EntityFramework.xml
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management_host\bin\Debug\EntityFramework.SqlServer.xml
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management_host\bin\Debug\Library_Management.pdb
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management_host\bin\Debug\Library_Management.dll.config
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management_host\obj\Debug\Library_Management_host.csproj.AssemblyReference.cache
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management_host\obj\Debug\Library_Management_host.csproj.CoreCompileInputs.cache
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management_host\obj\Debug\Library_Management_host.csproj.CopyComplete
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management_host\obj\Debug\Library_Management_host.exe
+D:\Semaster6\SOC\Library Management System\Library Management System\Library_Management\Library_Management_host\obj\Debug\Library_Management_host.pdb
